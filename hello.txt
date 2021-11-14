@@ -17,3 +17,4 @@ hello git hot-fix test
 111111111111111
 push test
 ssh test
+ssh push test
